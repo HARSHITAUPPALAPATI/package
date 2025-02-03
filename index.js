@@ -1,0 +1,1 @@
+console.log("Hello Everyone. Welcome to npm Registry");
